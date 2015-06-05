@@ -23,7 +23,9 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
-
+body > .container {
+  padding: $spacing-unit*2 $spacing-unit/2 0;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
