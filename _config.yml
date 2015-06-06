@@ -2,12 +2,11 @@
 title: Full Image Manager
 email: natasaborovcanin@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Full Image Manager is an opencart extension based on elFinder.
+  With Very powerful options and user friendly interface, Full image Manager will save lot of your time.
 baseurl: "/full-image-manager" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: natasaborovcanin2
+twitter_username: natasaborovcan2
 github_username:  natasaborovcanin
 
 # Build settings
