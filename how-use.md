@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How use
+
 permalink: /how-use/
 ---
 
